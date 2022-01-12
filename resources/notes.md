@@ -3,11 +3,12 @@ Notes on data organization and labels from original data sent by Luke.
 # 2019  
 Total fields in 2019: 3    
 
-1. Field: Big Shy (Russ Worsley (Fire Tower Farms))
-  - Boundary:
+1. Field: Big Shy (Russ Worsley/Fire Tower Farms)  
+  - Boundary:  
   - Yield:  
   - Quality: (n=90 for quality)  
-      
+
+---
         
 2. Field:  Big Half (Keith Bowen/Colquitt)  
   - Boundary:
@@ -17,7 +18,9 @@ Total fields in 2019: 3
     - path: /Users/leonardobastos/Desktop/Worsley/2019/BigHalfUGAIrrigation/doc/Keith Bowen_Colquitt_Big Half_Harvest_2019-12-02_00.shp  
     - n: 29,790  
     
-  - **Quality: could not find file.**
+  - **Quality: could not find file.**  
+
+---
 
 3. Field: Shy North (Keith Bowen/Colquitt)  
   - **Boundary: could not find file.** 
@@ -27,6 +30,8 @@ Total fields in 2019: 3
   - Quality:  
     - path: /Users/leonardobastos/Desktop/Worsley/2019/HIDC_CFF_KEITH BOWEN_COLQUITT_SHY NORTH.csv  
     - n: 91  
+
+---
 
 # 2020  
 

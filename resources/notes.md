@@ -34,6 +34,9 @@ Total fields in 2019: 3
 ---
 
 # 2020  
+Total fields in 2020: 3  
+
+---
 
 1. Field: Big Half (Keith Bowen/Colquitt)   
   - Boundary:  
@@ -46,6 +49,8 @@ Total fields in 2019: 3
   - Quality:  
     - path: /Users/leonardobastos/Desktop/Worsley/2020/Big_Half_2020/bighalf_all_data.xlsx  
     - n: 45  
+    
+--- 
 
 2. Field: Fire Tower  
   - Boundary:  
@@ -61,6 +66,8 @@ Total fields in 2019: 3
     
   - **Other**: has an application shapefile. Need to ask what is it.
 
+---
+
 3. Hog House (Keith Bowen/Colquitt)    
   - Boundary:  
     - path: /Users/leonardobastos/Desktop/Worsley/2020/Hog_House_2020/boundaries/Keith Bowen_Colquitt_Hog House.shp  
@@ -72,6 +79,8 @@ Total fields in 2019: 3
   - Quality:  
     - path: /Users/leonardobastos/Desktop/Worsley/2020/Hog_House_2020/hoghouse_all_data.xlsx  
     - n: 31  
+
+---
     
 # 2021  
 1. John Weaver South    
@@ -80,7 +89,9 @@ Total fields in 2019: 3
   - Yield/elevation: 
     - path: /Users/leonardobastos/Desktop/Worsley/2021/John Weaver South/JWS_2021_Harvest/doc/Keith Bowen_Colquitt_john weaver _Harvest_2021-11-03_00.shp  (ON A DIFFERENT ROOT FOLDER!)
     - n: 12,244
-  - **Quality: could not find file.**  
+  - **Quality: could not find file.** 
+
+---
   
 2. John Weaver North  
   - Boundary:  
@@ -91,7 +102,9 @@ Total fields in 2019: 3
     - n: 10,336  
     
   - **Quality: could not find file.**  
-  
+
+---
+
 3. Shy North  
   - **Boundary: could not find file.**
   - Yield/elevation:  

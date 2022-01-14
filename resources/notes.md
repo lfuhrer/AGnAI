@@ -32,7 +32,7 @@ Status: need to find quality layer.
     - path: ~/Worsley/2019/BigHalfUGAIrrigation/doc/Keith Bowen_Colquitt_Big Half_Harvest_2019-12-02_00.shp  
     - n: 29,790  
     
-- **Quality: could not find file.**  
+- **Quality: could not find file.**  NOT RECORDED!  
 
 ---
 
@@ -145,5 +145,20 @@ Has yield data been cleaned? If not, what is common practice for cleaning cotton
 As of now, quality layers are point shapefile. Do we have a polygon shapefile to identify them?  
 
 What is the complete name of the quality column headers? What units are they in?  
+
+# Notes from Meeting Jan 14th  
+
+Shy North 2019 and 2021 have treatments.  
+John Weaver 2021 is skp-row, but does not appear on files.  
+For 2021 season, Luke just got fiber quality yesterday,  
+
+bales/ac or lbs/ac. 
+1 module made up of seed cotton (fiber, seed, trash), pre-gin.  
+lbs/ac is seed cotton. 
+bales/ac is derived from seed cotton (40% of lbs/ac is actually lint that then expressed as bales/ac), lint/gin turnout.  
+
+irrigated ~ 2 bales/ac   
+micronaire has a quadratic response with loan, depending on whether it is under or over mature.  
+
 
 

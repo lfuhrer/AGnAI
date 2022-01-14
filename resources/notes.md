@@ -8,7 +8,7 @@ Total fields in 2019: 2
 ## *1. Field: Big Shy a.k.a. Shy North (Keith Bowen/Colquitt)  
 Status: need to find boundary file AND check on correct quality layer.  
 
-  - **Boundary: could not find file.** 
+  - **Boundary: could not find file.**  (Added now)
   - Yield/elevation:  
     - path: ~/Worsley/2019/Shy North_export (1)/doc/Keith Bowen-Colquitt-Shy North-Cotton.shp  
     - n: 142,944
@@ -18,7 +18,8 @@ Status: need to find boundary file AND check on correct quality layer.
     OR
     - path: ~/Worsley/2019/HIDC_CFF_KEITH BOWEN_COLQUITT_SHY NORTH.csv  
     - n: 91  
-
+    
+    -Use 90 modules for this field
 
 ---
         
@@ -34,6 +35,7 @@ Status: need to find quality layer.
     
 - **Quality: could not find file.**  NOT RECORDED!  
 
+  - Lost fiber quality due to gin mix up, but can be used for yield or others
 ---
 
 # 2020  
@@ -94,7 +96,7 @@ Status: checked, conformed
 # 2021  
 Total fields in 2021: 3  
 
----
+---  (all boundaries should be present now, and fiber quality work is coming soon)
 
 ## *6. John Weaver South (Keith Bowen/Colquitt)    
 Status: need to find boundary file  
@@ -103,7 +105,7 @@ Status: need to find boundary file
     - path: ~/Worsley/2021/John Weaver/Boundary.shp  
     
 - Yield/elevation: 
-    - path: ~/Worsley/2021/John Weaver South/JWS_2021_Harvest/doc/Keith Bowen_Colquitt_john weaver _Harvest_2021-11-03_00.shp  (ON A DIFFERENT ROOT FOLDER!)
+    - path: ~/Worsley/2021/John Weaver South/JWS_2021_Harvest/doc/Keith Bowen_Colquitt_john weaver _Harvest_2021-11-03_00.shp  (ON A DIFFERENT ROOT FOLDER!) (file name is fixed now to limit confusion, likely due to export from MyJD)
     - n: 12,244
 - **Quality: could not find file.** 
 
@@ -148,7 +150,7 @@ What is the complete name of the quality column headers? What units are they in?
 
 # Notes from Meeting Jan 14th  
 
-Shy North 2019 and 2021 have treatments.  
+Fire tower 2020 and Shy North 2021 have treatments.  
 John Weaver 2021 is skp-row, but does not appear on files.  
 For 2021 season, Luke just got fiber quality yesterday,  
 
@@ -160,5 +162,10 @@ bales/ac is derived from seed cotton (40% of lbs/ac is actually lint that then e
 irrigated ~ 2 bales/ac   
 micronaire has a quadratic response with loan, depending on whether it is under or over mature.  
 
+Quality- I currently do not have them as a polygon but that could be done in Arc potentially. Jason Ward at NC State potentially has done this, worth reaching out to him. 
+These are the traditional cotton fiber quality units of 
+Lf-leaf grade, Mic-micronaire, Ex-extraneous matter, Str-strength, CGr-color grade, Rd-reflectance, b+-yellowness, Tr-trash, unif-uniformity, Len-length, Loan Rate, Loan Value (Loan Rate * Net Wt)
+Dimensions can be found for each at:
+https://www.cottoninc.com/cotton-production/quality/classification-of-cotton/classification-of-upland-cotton/
 
 
